@@ -37,5 +37,13 @@ Multiple regression models are compared:
 - Implemented interactive visualizations for financial insight analysis
 - Designed scalable API architecture for real-time prediction
 - K-Nearest Neighbors (KNN)
+- 
+## 🔮 Future Improvements
+
+- Implement Time Series Cross-Validation
+- Add Lag Features & Rolling Averages
+- Integrate XGBoost for improved performance
+- Compare with LSTM-based deep learning models
+- Deploy on cloud platform (Render / AWS / Railway)
 
 The final model is integrated into a Flask-based web application that provides real-time predictions through a REST API.
